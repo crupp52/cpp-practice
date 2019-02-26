@@ -1,0 +1,4 @@
+﻿  cpp_practice_01.cpp
+e:\c#\cpp-practice\cpp_practice_01\cpp_practice_01\cpp_practice_01.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\c#\cpp-practice\cpp_practice_01\cpp_practice_01\cpp_practice_01.cpp(15): warning C4715: 'isPrime': not all control paths return a value
+  cpp_practice_01.vcxproj -> E:\C#\cpp-practice\cpp_practice_01\Debug\cpp_practice_01.exe
